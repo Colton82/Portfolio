@@ -146,7 +146,7 @@ These reflect industry-standard tools for cross-platform C# development, real-ti
 ![Class Diagram](images/Sitemap.png)
 
 ### Logical Solution Design
-![Station Flow](images/logicalSolutionDesign.png)
+![LogicalSolutionDesign](images/LogicalSolutionDesign.png)
 
 ---
 
@@ -154,9 +154,10 @@ These reflect industry-standard tools for cross-platform C# development, real-ti
 
 | Challenge | Solution |
 |----------|----------|
-| WebSocket filtering by station/user | Refactored server-side routing with `userId` support |
+| WebSocket filtering by user | Refactored server-side routing with `userId` support |
 | UI desync across station windows | Introduced real-time MVVM bindings and dispatcher calls |
 | Azure MySQL connectivity issues | Adjusted connection string + SSL configuration |
+| Orders table primary key duplication error | Rewrote order generation to utilize longer, unique ID's based on time + ticks |
 
 **Risk Management:**  
 I used version control, regular backups, and researched extensively (StackOverflow, Microsoft Docs, OpenAI) when solving bugs or unclear errors.
@@ -166,7 +167,6 @@ I used version control, regular backups, and researched extensively (StackOverfl
 ## 📝 Outstanding Issues
 
 - Real-time bumping of individual **order items** (currently bumps entire order)  
-- No RBAC (Role-based access control); system is locked behind a manager login only
 
 ---
 
