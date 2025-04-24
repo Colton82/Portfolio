@@ -135,18 +135,18 @@ These reflect industry-standard tools for cross-platform C# development, real-ti
 
 ## 🧠 Technical Architecture
 
-![Architecture Diagram](images/architecture-diagram.png)  
+![Architecture Diagram](images/ArchitectureDiagram.png)  
 *A hybrid system with REST + WebSocket communication, and a MySQL database on Azure.*
 
 ---
 
 ## 🔍 Design Details
 
-### Class Diagram
-![Class Diagram](images/class-diagram.png)
+### Sitemap Diagram
+![Class Diagram](images/Sitemap.png)
 
-### Station Flow
-![Station Flow](images/station-flow.png)
+### Logical Solution Design
+![Station Flow](images/logicalSolutionDesign.png)
 
 ---
 
