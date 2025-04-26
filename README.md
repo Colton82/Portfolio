@@ -174,7 +174,7 @@ I used version control, regular backups, and researched extensively (StackOverfl
 
 ---
 
-## 💼 Use This Portfolio in Interviews
+## Repositories
 
 - 🔗 [Canyon KDS UI Repository](https://github.com/Colton82/KDSUI)
 - 🔗 [Canyon KDS API Repository](https://github.com/Coton82/KDSAPI)
