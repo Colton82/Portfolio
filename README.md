@@ -4,6 +4,10 @@ Welcome to my Software Development Capstone Project portfolio. This page provide
 
 ---
 
+### Showcase Poster
+
+![Showcase Poster](images/ShowcasePoster.png)
+
 ## 📌 Project Overview
 
 **Problem:**  
@@ -172,10 +176,10 @@ I used version control, regular backups, and researched extensively (StackOverfl
 
 ## 💼 Use This Portfolio in Interviews
 
-- 🔗 [Canyon KDS UI Repository](https://github.com/yourusername/CanyonKDS-UI)
-- 🔗 [Canyon KDS API Repository](https://github.com/yourusername/CanyonKDS-API)
-- 🔗 [Executable Demo (ZIP)](https://github.com/yourusername/CanyonKDS/releases)
-- 📄 [Capstone Presentation Slide Deck](link-if-available)
+- 🔗 [Canyon KDS UI Repository](https://github.com/Colton82/KDSUI)
+- 🔗 [Canyon KDS API Repository](https://github.com/Coton82/KDSAPI)
+- 🔗 [POS Simulator Tool](https://github.com/Colton82/FakePOS)
+- 🔗 [All-In-One Repo with downloadable ZIP](https://github.com/Colton82/CapstoneFinal)
 
 ---
 
@@ -183,8 +187,8 @@ I used version control, regular backups, and researched extensively (StackOverfl
 
 **Colton Cuellar**  
 - 📅 Expected Graduation: April 2025, Grand Canyon University  
-- 📧 your.email@example.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 coltoncuellar82@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/colton-cuellar-10189b252/)
 
 ---
 
